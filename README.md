@@ -1,2 +1,2 @@
 # Sistema Acadêmico
-Projeto da faculdade.
+Sistema de Controle Acadêmico desenvolvido para estudos.
