@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Disciplinas implements Serializable {
 
-    Long id;
-    String nome;
-    
+    public Long id;
+    public String nome;
+
 }
