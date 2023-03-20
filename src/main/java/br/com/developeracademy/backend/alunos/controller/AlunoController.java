@@ -1,4 +1,4 @@
-package br.com.developeracademy.backend.aluno.controller;
+package br.com.developeracademy.backend.alunos.controller;
 
 import br.com.developeracademy.backend.alunos.entity.Aluno;
 import br.com.developeracademy.backend.alunos.service.AlunoService;
